@@ -2274,7 +2274,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "nixos-bevy"
+name = "nixos_bevy"
 version = "0.1.0"
 dependencies = [
  "bevy",

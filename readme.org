@@ -10,10 +10,14 @@ The repo used to create a template for bevy in nixos.
 
 ** install
 #+begin_src sh
-  git clone https://github.com/aylax/devhub.nixos-bevy
+git clone https://github.com/aylax/devhub.nixos-bevy
 #+end_src
 
 ** usage
+#+begin_src sh
+nix-shell
+cargo run
+#+end_src
 
 ** refs & thanks
 - [[https://github.com/RichardLitt/standard-readme.git][standard readme]]
