@@ -19,4 +19,4 @@ The repo used to create a template for bevy in nixos.
 - [[https://github.com/RichardLitt/standard-readme.git][standard readme]]
 
 ** license
-[[https://github.com/aylax/defhub.math/blob/master/license][BSD-3-Clause]] © aylax
+[[https://github.com/aylax/defhub.nixos-bevy/blob/master/license][BSD-3-Clause]] © aylax
