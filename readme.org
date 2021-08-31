@@ -10,7 +10,7 @@ The repo used to create a template for bevy in nixos.
 
 ** install
 #+begin_src sh
-  git clone https://github.com/aylax/defhub.nixos-bevy
+  git clone https://github.com/aylax/devhub.nixos-bevy
 #+end_src
 
 ** usage
@@ -23,4 +23,4 @@ The repo used to create a template for bevy in nixos.
 - [[https://bevyengine.org/learn/book/introduction/][bevy the book]]
 
 ** license
-[[https://github.com/aylax/defhub.nixos-bevy/blob/master/license][BSD-3-Clause]] © aylax
+[[https://github.com/aylax/devhub.nixos-bevy/blob/master/license][BSD-3-Clause]] © aylax
