@@ -1,0 +1,22 @@
+#+TITLE: aylax's nixos-bevy
+#+KEYWORDS: nixos bevy
+#+DATE: 2021-08-31
+#+AUTHOR: aylax zhou
+#+EMAIL: zhoubye@foxmail.com
+#+DESCRIPTION: A description of bevy in nixos
+#+OPTIONS: author:t creator:t timestamp:t email:t
+
+The repo used to create a template for bevy in nixos.
+
+** install
+#+begin_src sh
+  git clone https://github.com/aylax/defhub.nixos-bevy
+#+end_src
+
+** usage
+
+** refs & thanks
+- [[https://github.com/RichardLitt/standard-readme.git][standard readme]]
+
+** license
+[[https://github.com/aylax/defhub.math/blob/master/license][BSD-3-Clause]] © aylax
